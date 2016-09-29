@@ -1,0 +1,29 @@
+{
+  "name": "marvel-universe",
+  "version": "0.1.0",
+  "description": "Buscador de todo el mundo de Marvel",
+  "main": "server.js",
+  "keywords": [
+    "Marvel",
+    "javascript",
+    "buscador",
+    "wikimarvel",
+    "comics"
+  ],
+  "author": "MIKECOBAS",
+  "license": "MIT",
+  "dependencies": {
+    "empty-element": "^1.0.0",
+    "express": "^4.14.0",
+    "materialize-css": "^0.97.7",
+    "page": "^1.7.1",
+    "pug": "^2.0.0-beta6",
+    "title": "^1.0.0",
+    "yo-yo": "^1.2.2"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.2"
+  }
+}
